@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/modern-ui-ux/static/css/main.a7ff9808.chunk.css",
+    "main.js": "/modern-ui-ux/static/js/main.4e80daab.chunk.js",
+    "main.js.map": "/modern-ui-ux/static/js/main.4e80daab.chunk.js.map",
+    "runtime-main.js": "/modern-ui-ux/static/js/runtime-main.eb62d1f3.js",
+    "runtime-main.js.map": "/modern-ui-ux/static/js/runtime-main.eb62d1f3.js.map",
+    "static/js/2.2e19e702.chunk.js": "/modern-ui-ux/static/js/2.2e19e702.chunk.js",
+    "static/js/2.2e19e702.chunk.js.map": "/modern-ui-ux/static/js/2.2e19e702.chunk.js.map",
+    "index.html": "/modern-ui-ux/index.html",
+    "static/css/main.a7ff9808.chunk.css.map": "/modern-ui-ux/static/css/main.a7ff9808.chunk.css.map",
+    "static/js/2.2e19e702.chunk.js.LICENSE.txt": "/modern-ui-ux/static/js/2.2e19e702.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/modern-ui-ux/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/modern-ui-ux/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/modern-ui-ux/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/modern-ui-ux/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/modern-ui-ux/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/modern-ui-ux/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/modern-ui-ux/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/modern-ui-ux/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/modern-ui-ux/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb62d1f3.js",
+    "static/js/2.2e19e702.chunk.js",
+    "static/css/main.a7ff9808.chunk.css",
+    "static/js/main.4e80daab.chunk.js"
+  ]
+}
