@@ -17,4 +17,5 @@ Concepts used in this website:
 ### Technologies used:
 * HTML
 * CSS
+* JavaScript
 * ReactJs
